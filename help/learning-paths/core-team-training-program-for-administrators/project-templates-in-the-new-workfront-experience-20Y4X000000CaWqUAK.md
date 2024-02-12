@@ -1,30 +1,30 @@
 ---
 title: プロジェクトテンプレート
-description: ワークフロントの 1 つのコースを experience league コースにマッピング
+description: Workfront One のコースを Experience League コースにマッピング
 exl-id: dbec744f-03bb-47f0-b939-76889758f5c6
 source-git-commit: b0ac8b76071ade5f59b51060d2af3909c740c8b4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
 # プロジェクトテンプレート
 
-以下の 4 つのWorkfront One 学習パス、
+以下の 4 つの Workfront One Learning パス、
 
 * プロジェクトテンプレート
 * マイルストーン
 * 承認プロセス
 * 問題の管理
 
-一つのExperience League科に組み合わされ [プランナーとしての作業管理の詳細な理解](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners){target="_blank"}.
+1 つの Experience League コース（[計画担当者としての作業管理の詳細な理解](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners){target="_blank"}）に組み合わされました。
 
-新しいExperience Leagueコースは、以前の学習パスと同じ学習目標をカバーし、可能な限り最適化され、包括的な学習体験を提供します。  Experience LeagueのWorkfrontコース、ドキュメント、チュートリアル、コミュニティの完全なライブラリを参照してください。
+新しい Experience League コースは、以前の学習パスと同じ学習オブジェクティブをカバーし、可能な限り最適化され、包括的な学習エクスペリエンスを提供します。Experience League の Workfront コース、ドキュメント、チュートリアルおよび Communities のすべてのライブラリを参照してください。
 
 ## その他のリソース
 
-* [Workfrontコース](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Workfront Documentation](https://experienceleague.adobe.com/docs/workfront.html)
-* [WorkfrontTutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Workfront Communities](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Workfront コース](https://experienceleague.adobe.com/?lang=ja&amp;Solution=Workfront#courses)
+* [Workfront ドキュメント](https://experienceleague.adobe.com/docs/workfront.html?lang=ja)
+* [Workfront チュートリアル](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=ja)
+* [Workfront Communities](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront?profile.language=ja)

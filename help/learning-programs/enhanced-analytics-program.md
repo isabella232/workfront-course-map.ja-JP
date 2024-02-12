@@ -1,17 +1,17 @@
 ---
-title: Analytics の強化
-description: ワークフロントの 1 つのコースを experience league コースにマッピング
+title: 拡張分析
+description: Workfront One のコースを Experience League コースにマッピング
 exl-id: a3aaa1f8-047e-4d5b-9740-3526a378689d
 source-git-commit: c43fb577b22dddb61c76adb0a3351c0777852a69
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '55'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Analytics の強化
+# 拡張分析
 
-現在、このコースコンテンツをExperience League用に再構築中です。  ご不便をおかけして申し訳ございません。  このコースの内容は、近日中にオンラインになると予想されます。
+現在、このコースの内容を Experience League 用に再構築中です。ご不便をおかけして申し訳ございません。このコースの内容は、近日中にオンラインで提供される予定です。
 
 <!---Learn how to manage your current work and plan future work more accurately by identifying data trends.
 
@@ -94,7 +94,7 @@ ht-degree: 0%
 
 ## その他のリソース
 
-* [Workfrontコース](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Workfront Documentation](https://experienceleague.adobe.com/docs/workfront.html)
-* [WorkfrontTutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Workfront Communities](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Workfront コース](https://experienceleague.adobe.com/?lang=ja&amp;Solution=Workfront#courses)
+* [Workfront ドキュメント](https://experienceleague.adobe.com/docs/workfront.html?lang=ja)
+* [Workfront チュートリアル](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=ja)
+* [Workfront Communities](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront?profile.language=ja)

@@ -1,39 +1,39 @@
 ---
-title: 新しいWorkfrontエクスペリエンスのためのWorkfrontでの校正の設定
-description: ワークフロントの 1 つのコースを experience league コースにマッピング
+title: 新バージョンの Workfront でのプルーフの設定
+description: Workfront One のコースを Experience League コースにマッピング
 exl-id: 7d259c4f-b0ec-4bfd-9ae2-91acfa47a5ba
 source-git-commit: c43fb577b22dddb61c76adb0a3351c0777852a69
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 新しいWorkfrontエクスペリエンスのためのWorkfrontでの校正の設定
+# 新バージョンの Workfront でのプルーフの設定
 
-Workfrontのデジタルレビューと承認（校正とも呼ばれます）の基礎知識を習得し、プロジェクトワークフローに適した校正を設定します。
+Workfront のデジタルレビューと承認（プルーフとも呼ばれます）の基礎知識を習得し、そのメリットを把握して、プロジェクトワークフローに適したプルーフを設定します。
 
 >[!IMPORTANT]
 >
->**この以前のWorkfront One ラーニングプログラムは、新しく移行され、最適化されたExperience LeagueWorkfrontコースにマッピングされています。  同じ学習目的はすべて新しい構造でカバーされます。**.
+>**これ以前の Workfront One 学習プログラムは、新しく移行され、最適化された Experience League Workfront コースにマッピングされています。同じ学習オブジェクティブはすべて新しい構造でカバーされます。**
 
 <table>
   <tr>
    <td>
       <a href="https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.3.proof">
-      <img alt="Workfront Proof — 管理と設定" src="https://cdn.experienceleague.adobe.com/thumb/workfront-proof-administration-and-setup.png"/>
+      <img alt="Workfront Proof：管理と設定" src="https://cdn.experienceleague.adobe.com/thumb/workfront-proof-administration-and-setup.png"/>
       </a>
       <div>
-         <strong>Workfront Proof — 管理と設定</strong></a>         
-         <br/><em>55 分</em>
+         <strong>Workfront Proof：管理と設定</strong></a>
+ <br/><em>55 分</em>
       </div>
       <p>
         <br/>
-         配達確認の設定を調整し、アクションとレポートをカスタマイズし、配達確認ワークフローを設定する方法を説明します。
+ プルーフの設定を調整し、アクションとレポートをカスタマイズし、プルーフワークフローを設定する方法を説明します。
       </p>
       <a  rel="noreferrer" target="_blank" href="https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.3.proof" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
-      <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">コースに進む</span>
-      </a>
+ <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">コースに進む</span>
+ </a>
    </td>   
   </tr>
 
@@ -41,7 +41,7 @@ Workfrontのデジタルレビューと承認（校正とも呼ばれます）�
 
 ## その他のリソース
 
-* [Workfrontコース](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Workfront Documentation](https://experienceleague.adobe.com/docs/workfront.html)
-* [WorkfrontTutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Workfront Communities](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Workfront コース](https://experienceleague.adobe.com/?lang=ja&amp;Solution=Workfront#courses)
+* [Workfront ドキュメント](https://experienceleague.adobe.com/docs/workfront.html?lang=ja)
+* [Workfront チュートリアル](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=ja)
+* [Workfront Communities](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront?profile.language=ja)

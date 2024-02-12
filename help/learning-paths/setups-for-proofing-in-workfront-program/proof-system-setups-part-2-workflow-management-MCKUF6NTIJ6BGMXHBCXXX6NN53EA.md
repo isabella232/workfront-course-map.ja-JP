@@ -1,29 +1,29 @@
 ---
-title: 配達確認のシステム設定、第 2 部 — ワークフロー管理
-description: ワークフロントの 1 つのコースを experience league コースにマッピング
+title: プルーフシステム設定、第 2 部：ワークフロー管理
+description: Workfront One のコースを Experience League コースにマッピング
 exl-id: bc124e74-43c9-4fb0-89d8-2dbad8b022d1
 source-git-commit: a35951f56d4d0b0c978b11671ca119541234270a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '119'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 配達確認のシステム設定、第 2 部 — ワークフロー管理
+# プルーフシステム設定、第 2 部：ワークフロー管理
 
-次のWorkfront One の学習パス、
+次の Workfront One 学習パス、
 
-* 配達確認のシステム設定、第 1 部 — システムおよびユーザー設定
-* 配達確認のシステム設定、第 2 部 — ワークフロー管理
-* Workfrontでの校正の設定
+* プルーフシステム設定、第 1 部：システムおよびユーザー設定
+* プルーフシステム設定、第 2 部：ワークフロー管理
+* Workfront でのプルーフの設定
 
-一つのExperience League科に組み合わされ [Workfront Proof — 管理と設定](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.3.proof){target="_blank"}.
+は、1 つの Experience League コース「[Workfront Proof：管理と設定](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.3.proof){target="_blank"}」に統合されました。
 
-新しいExperience Leagueコースは、以前の学習パスと同じ学習目標をカバーし、可能な限り最適化され、包括的な学習体験を提供します。  Experience LeagueのWorkfrontコース、ドキュメント、チュートリアル、コミュニティの完全なライブラリを参照してください。
+新しい Experience League コースは、以前の学習パスと同じ学習オブジェクティブをカバーし、可能な限り最適化され、包括的な学習エクスペリエンスを提供します。Experience League の Workfront コース、ドキュメント、チュートリアルおよび Communities のすべてのライブラリを参照してください。
 
 ## その他のリソース
 
-* [Workfrontコース](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Workfront Documentation](https://experienceleague.adobe.com/docs/workfront.html)
-* [WorkfrontTutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Workfront Communities](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Workfront コース](https://experienceleague.adobe.com/?lang=ja&amp;Solution=Workfront#courses)
+* [Workfront ドキュメント](https://experienceleague.adobe.com/docs/workfront.html?lang=ja)
+* [Workfront チュートリアル](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=ja)
+* [Workfront Communities](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront?profile.language=ja)

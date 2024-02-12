@@ -1,36 +1,36 @@
 ---
-title: Workfrontの概要（システム管理者向け）
-description: ワークフロントの 1 つのコースを experience league コースにマッピング
+title: Workfront の基本を学ぶ（システム管理者向け）
+description: Workfront One のコースを Experience League コースにマッピング
 exl-id: f316aec3-8c1e-4745-b993-ae8789c5c4be
 source-git-commit: a35951f56d4d0b0c978b11671ca119541234270a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
-# Workfrontの概要（システム管理者向け）
+# Workfront の基本を学ぶ（システム管理者向け）
 
-次のWorkfront One の学習パス、
+次の Workfront One 学習パス、
 
-* Workfrontにユーザーを追加
-* 管理者の基本，第 1 部：ユーザー組織
-* 管理者の基本，第 2 部：プロジェクトの設定
-* 管理者の基本，第 3 部：制御とインタフェース
+* Workfront へのユーザーの追加
+* 管理者の基本、第 1 部：ユーザー組織
+* 管理者の基本、第 2 部：プロジェクトの設定
+* 管理者の基本、第 3 部：コントロールとインターフェイス
 * メール通知およびアプリ内通知
-* Workfrontの概要（システム管理者向け）
+* Workfront の基本を学ぶ（システム管理者向け）
 * カスタムフォーム
 
-は、次のExperience Leagueコースに移行され、
+次の Experience League コースに移行されました。
 
-* [Workfrontの概要（システム管理者向け）](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.admin){target="_blank"}
-* [システム設定に関する知識をWorkfront Administrators に提供する](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.2.admin){target="_blank"}
+* [Workfront の基本を学ぶ（システム管理者向け）](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.admin){target="_blank"}
+* [システム設定に関する知識を深める（Workfront 管理者向け）](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.2.admin){target="_blank"}
 
-新しいExperience Leagueコースは、以前の学習パスと同じ学習目標をカバーし、可能な限り最適化され、包括的な学習体験を提供します。  Experience LeagueのWorkfrontコース、ドキュメント、チュートリアル、コミュニティの完全なライブラリを参照してください。
+新しい Experience League コースは、以前の学習パスと同じ学習オブジェクティブをカバーし、可能な限り最適化され、包括的な学習エクスペリエンスを提供します。Experience League の Workfront コース、ドキュメント、チュートリアルおよび Communities のすべてのライブラリを参照してください。
 
 ## その他のリソース
 
-* [Workfrontコース](https://experienceleague.adobe.com/?lang=en&amp;Solution=Workfront#courses)
-* [Workfront Documentation](https://experienceleague.adobe.com/docs/workfront.html)
-* [WorkfrontTutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)
-* [Workfront Communities](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront)
+* [Workfront コース](https://experienceleague.adobe.com/?lang=ja&amp;Solution=Workfront#courses)
+* [Workfront ドキュメント](https://experienceleague.adobe.com/docs/workfront.html?lang=ja)
+* [Workfront チュートリアル](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=ja)
+* [Workfront Communities](https://experienceleaguecommunities.adobe.com/t5/workfront/ct-p/workfront?profile.language=ja)
